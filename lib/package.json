@@ -1,0 +1,19 @@
+{
+  "name": "keyvalue-db",
+  "version": "1.0.0",
+  "description": "This is a library that supports the basic CRD(create, read, write) operations. Data store is meant to local storage for one single process on single laptop",
+  "main": "keyvalue-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyvalue-db",
+    "keyvalue",
+    "db",
+    "datastore",
+    "key",
+    "store"
+  ],
+  "author": "nithinleo14",
+  "license": "ISC"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "keyvalue-db-app",
+  "version": "1.0.0",
+  "description": "Apps that uses keyvalue-db library for key-value pair datastore",
+  "main": "app-web.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-web": "node ./app-web.js",
+    "start-cli": "node ./app-cli.js"
+  },
+  "author": "nithinleo14",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "express": "^4.17.1",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.3"
+  }
+}
