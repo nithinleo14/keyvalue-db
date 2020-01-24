@@ -25,3 +25,4 @@ The data store will also support the following non-functional requirements.
 2. More than one client process cannot be allowed to use the same file as a data store at any
 given time.
 
+library js is in ./lib/keyvalue-db.js
